@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. SoftUni Reception", "01. SoftUni Reception\01. SoftUni Reception.csproj", "{C6203E60-2F40-4A35-A051-38F26CBF893E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. SoftUni Course Planning", "02. SoftUni Course Planning\02. SoftUni Course Planning.csproj", "{AD6130C2-2D2A-4B5B-9506-FB672F72F930}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6203E60-2F40-4A35-A051-38F26CBF893E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6203E60-2F40-4A35-A051-38F26CBF893E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6203E60-2F40-4A35-A051-38F26CBF893E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6203E60-2F40-4A35-A051-38F26CBF893E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD6130C2-2D2A-4B5B-9506-FB672F72F930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD6130C2-2D2A-4B5B-9506-FB672F72F930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD6130C2-2D2A-4B5B-9506-FB672F72F930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD6130C2-2D2A-4B5B-9506-FB672F72F930}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFCD77EB-D15B-4626-9928-82C93B028F9D}
+	EndGlobalSection
+EndGlobal
