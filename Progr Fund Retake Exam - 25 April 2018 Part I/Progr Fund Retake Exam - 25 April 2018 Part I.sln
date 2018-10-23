@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Rage Expenses", "01. Rage Expenses\01. Rage Expenses.csproj", "{7EBCFC7E-E8AA-4080-A989-B4C2D852D870}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Memory View", "02. Memory View\02. Memory View.csproj", "{332A86C3-A33B-4BB0-A7E5-D3250010B7EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EBCFC7E-E8AA-4080-A989-B4C2D852D870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EBCFC7E-E8AA-4080-A989-B4C2D852D870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EBCFC7E-E8AA-4080-A989-B4C2D852D870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EBCFC7E-E8AA-4080-A989-B4C2D852D870}.Release|Any CPU.Build.0 = Release|Any CPU
+		{332A86C3-A33B-4BB0-A7E5-D3250010B7EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{332A86C3-A33B-4BB0-A7E5-D3250010B7EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{332A86C3-A33B-4BB0-A7E5-D3250010B7EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{332A86C3-A33B-4BB0-A7E5-D3250010B7EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {501C10D7-D3CB-40D9-90C5-26EAC78B2804}
+	EndGlobalSection
+EndGlobal
