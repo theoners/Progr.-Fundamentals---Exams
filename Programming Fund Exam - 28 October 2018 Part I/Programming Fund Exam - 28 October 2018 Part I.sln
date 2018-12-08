@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Google Searches", "01. Google Searches\01. Google Searches.csproj", "{45A3AEF1-0A65-44C3-9424-C73B098C2CA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Chat Logger", "02. Chat Logger\02. Chat Logger.csproj", "{95BD5BE5-0B63-4234-9213-2DBA7A1CF50A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45A3AEF1-0A65-44C3-9424-C73B098C2CA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A3AEF1-0A65-44C3-9424-C73B098C2CA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A3AEF1-0A65-44C3-9424-C73B098C2CA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A3AEF1-0A65-44C3-9424-C73B098C2CA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95BD5BE5-0B63-4234-9213-2DBA7A1CF50A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95BD5BE5-0B63-4234-9213-2DBA7A1CF50A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95BD5BE5-0B63-4234-9213-2DBA7A1CF50A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95BD5BE5-0B63-4234-9213-2DBA7A1CF50A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB875E65-AA37-4374-91AF-C0EEC1EF33F1}
+	EndGlobalSection
+EndGlobal
