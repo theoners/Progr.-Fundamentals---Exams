@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Tseam Account", "03. Tseam Account\03. Tseam Account.csproj", "{957BA437-A084-47D3-81AF-24AC85064C64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. MOBA Challenger", "04. MOBA Challenger\04. MOBA Challenger.csproj", "{8CE97BB7-F623-4591-B3F9-2A3C8F882BAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{957BA437-A084-47D3-81AF-24AC85064C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{957BA437-A084-47D3-81AF-24AC85064C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{957BA437-A084-47D3-81AF-24AC85064C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{957BA437-A084-47D3-81AF-24AC85064C64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CE97BB7-F623-4591-B3F9-2A3C8F882BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CE97BB7-F623-4591-B3F9-2A3C8F882BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CE97BB7-F623-4591-B3F9-2A3C8F882BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CE97BB7-F623-4591-B3F9-2A3C8F882BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB3FC921-B0FB-46CE-BD88-4702FF26FF86}
+	EndGlobalSection
+EndGlobal
