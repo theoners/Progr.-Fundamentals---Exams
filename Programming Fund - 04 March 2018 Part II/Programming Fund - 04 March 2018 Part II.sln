@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Star Enigma", "03. Star Enigma\03. Star Enigma.csproj", "{AA87B742-F2AF-4FF1-947F-1C9B5DAB6CB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. ForceBook", "04. ForceBook\04. ForceBook.csproj", "{64F29E8A-50F4-43E7-93F7-4849154F36AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA87B742-F2AF-4FF1-947F-1C9B5DAB6CB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA87B742-F2AF-4FF1-947F-1C9B5DAB6CB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA87B742-F2AF-4FF1-947F-1C9B5DAB6CB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA87B742-F2AF-4FF1-947F-1C9B5DAB6CB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64F29E8A-50F4-43E7-93F7-4849154F36AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F29E8A-50F4-43E7-93F7-4849154F36AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F29E8A-50F4-43E7-93F7-4849154F36AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F29E8A-50F4-43E7-93F7-4849154F36AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BBB4CED-BC4E-4AAE-87BF-67CEE8B0127F}
+	EndGlobalSection
+EndGlobal
