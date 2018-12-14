@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Anonymous Downsite", "01. Anonymous Downsite\01. Anonymous Downsite.csproj", "{2C191053-6864-4FF8-8297-575C1FE1C3FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Anonymous Threat", "02. Anonymous Threat\02. Anonymous Threat.csproj", "{F666CEA1-FF83-4C70-B992-7613C5805F34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C191053-6864-4FF8-8297-575C1FE1C3FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C191053-6864-4FF8-8297-575C1FE1C3FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C191053-6864-4FF8-8297-575C1FE1C3FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C191053-6864-4FF8-8297-575C1FE1C3FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F666CEA1-FF83-4C70-B992-7613C5805F34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F666CEA1-FF83-4C70-B992-7613C5805F34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F666CEA1-FF83-4C70-B992-7613C5805F34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F666CEA1-FF83-4C70-B992-7613C5805F34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11DBC545-7F89-4048-87D1-23E1CC02BC5B}
+	EndGlobalSection
+EndGlobal
